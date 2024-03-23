@@ -1,7 +1,5 @@
 # Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
-
-
+Snappy is chat application build using MERN Stack. 
 ![login page](./images/snappy_login.png)
 
 ![home page](./images/snappy.png)
@@ -32,7 +30,7 @@ cd ..
 cd public
 yarn
 ```
-We are almost done, Now just start the development server.
+Now start the development server.
 
 For Frontend.
 ```shell
@@ -41,7 +39,7 @@ yarn start
 ```
 For Backend.
 
-Open another terminal in folder, Also make sure mongodb is running in background.
+Open another terminal, make sure mongodb is running in background.
 ```shell
 cd server
 yarn start
